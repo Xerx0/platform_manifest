@@ -18,6 +18,10 @@
   <remote  name="derp"
            fetch="https://github.com/DerpFest-OP5T"
            revision="refs/heads/pie" />
+  
+  <remote  name="custom"
+           fetch="https://github.com/Xerx0"
+           revision="refs/heads/pie" />
 
   <!-- AOSiP -->
   <!-- General -->
@@ -132,7 +136,7 @@
   <project path="system/vold" name="platform_system_vold" remote="aosip" />
 
   <!-- Vendor -->
-  <project path="vendor/aosip" name="platform_vendor_aosip" remote="derp" />
+  <project path="vendor/aosip" name="platform_vendor_aosip" remote="custom" />
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="aosip" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="platform_vendor_qcom_opensource_cryptfs_hw" remote="aosip" />
 
