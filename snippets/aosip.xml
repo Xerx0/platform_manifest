@@ -24,7 +24,7 @@
   <project path="art" name="platform_art" remote="aosip" />
   <project path="bionic" name="platform_bionic" remote="derp" />
   <project path="bootable/recovery" name="platform_bootable_recovery" remote="aosip" />
-  <project path="manifest" name="DerpFest-OP5T/platform_manifest" remote="github" revision="pie" />
+  <project path="manifest" name="Xerx0/platform_manifest" remote="github" revision="pie" />
 
   <!-- Build -->
   <project path="build/make" name="platform_build" remote="derp" >
