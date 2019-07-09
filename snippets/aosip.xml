@@ -101,7 +101,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform_packages_apps_CellBroadcastReceiver" remote="aosip" />
   <project path="packages/apps/Changelog" name="platform_packages_apps_Changelog" remote="aosip" />
   <project path="packages/apps/CustomDoze" name="platform_packages_apps_CustomDoze" remote="derp" />
-  <project path="packages/apps/DeskClock" name="platform_packages_apps_DeskClock" remote="aosip" />
   <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="aosip" />
   <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3" remote="aosip" />
   <project path="packages/apps/Nfc" name="platform_packages_apps_Nfc" remote="aosip" />
